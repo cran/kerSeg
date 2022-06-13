@@ -1,0 +1,6 @@
+useDynLib(kerSeg, .registration=TRUE)
+export(kerseg1, kerseg2, gaussiankernel)
+export(statint, skew)
+importFrom("stats", "dist", "median", "integrate", "pnorm", "dnorm")
+importFrom("Rcpp", "sourceCpp")
+

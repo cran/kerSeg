@@ -1,0 +1,13 @@
+6aa978fef5c14b19dad99b14ef1e9d74 *DESCRIPTION
+f6251dcf3ca150a865cc0230a75ba2e8 *NAMESPACE
+3b7b4b66c70b1a05786520885cefe32a *R/GaussianKernel.R
+a409f5139218ce334571ad19df04f677 *R/RcppExports.R
+df72e5c63c99dbaac8bb9077d94c6d61 *R/kerSeg.R
+446e912e54aa14647ba49a47a28229c7 *man/gaussiankernel.Rd
+e970030e00247b28e20871c15d51feca *man/kerSeg-package.Rd
+b1bb60da319efd902b9962dcb866450b *man/kerseg1.Rd
+e8d7d69c765e7276ad17052b6688b866 *man/kerseg2.Rd
+632483b541168759007664455c453f1c *man/skew.Rd
+a237202513a5604ed53e744acc2c40e4 *man/statint.Rd
+2a2689686f48be6709d0ebbe195c9967 *src/RcppExports.cpp
+f272132688c1e4601c9afc7c6b62d57a *src/util.cpp
