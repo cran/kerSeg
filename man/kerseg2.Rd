@@ -30,7 +30,7 @@ kerseg2(n, K, r1=1.2, r2=0.8, l0=0.05*n, l1=0.95*n,
   \item{GKCP}{The p-value of GKCP obtained by the random permutation.}
 }
 \seealso{
-  \code{\link{kerSeg}}, \code{\link{kerseg2}}, \code{\link{gaussiankernel}}, \code{\link{kerseg1}}
+  \code{\link{kerSeg-package}}, \code{\link{kerseg2}}, \code{\link{gaussiankernel}}, \code{\link{kerseg1}}
 }
 \examples{
 ## Sequence 3: change in both the mean and variance happens on an interval.

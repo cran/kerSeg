@@ -1,7 +1,7 @@
 Package: kerSeg
 Type: Package
 Title: New Kernel-Based Change-Point Detection
-Version: 1.0
+Version: 1.1
 Authors@R: c(person("Hoseung", "Song", role = c("aut", "cre"),
                      email = "hosong@ucdavis.edu"),
              person("Hao", "Chen", role = "aut"))
@@ -15,6 +15,6 @@ License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.7)
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2022-06-10 15:31:18 UTC; hsong3
+Packaged: 2023-08-22 20:24:25 UTC; hsong3
 Repository: CRAN
-Date/Publication: 2022-06-13 06:40:05 UTC
+Date/Publication: 2023-08-22 20:40:04 UTC

@@ -12,7 +12,7 @@ gaussiankernel(X)
   Returns a numeric matrix, the Gaussian kernel matrix computed with the specified bandwidth.
 }
 \seealso{
-  \code{\link{kerSeg}},\code{\link{kerseg1}},\code{\link{kerseg2}}
+  \code{\link{kerSeg-package}},\code{\link{kerseg1}},\code{\link{kerseg2}}
 }
 \examples{
 ## Sequence : change in the mean in the middle of the sequence.

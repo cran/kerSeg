@@ -1,5 +1,5 @@
 \name{kerSeg}
-\alias{kerSeg}
+\alias{kerSeg-package}
 \title{
   New kernel-based change-point detection
 }
